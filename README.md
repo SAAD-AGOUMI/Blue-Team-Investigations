@@ -5,6 +5,7 @@
 | # | Investigation | Thèmes | Outils |
 |---|---|---|---|
 | 01 | [Investigation d'une compromission d'un poste Windows et pivot vers un serveur Linux](Investigation%20d%E2%80%99une%20compromission%20d%E2%80%99un%20poste%20windows%20et%20pivot%20vers%20un%20serveur%20Linux/writeup.md) | PowerShell obfusqué, persistance, vol d'identifiants, mouvement latéral, anti-forensics | Splunk, CyberChef |
+| 02 | [Reconstruction d’une intrusion à partir d’un dump mémoire et de ruches de registre](Reconstruction%20d%E2%80%99une%20intrusion%20%C3%A0%20partir%20d%E2%80%99un%20dump%20m%C3%A9moire%20et%20de%20ruches%20de%20registre/writeup.md) | PowerShell encodé, zones mémoire anormales, persistance dans le registre, traces de l'opérateur | Volatility, strings, Registry Explorer |
 
 ---
 
